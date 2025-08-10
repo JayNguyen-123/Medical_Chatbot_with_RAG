@@ -1,1 +1,2 @@
 # Medical_Chatbot_with_RAG
+- In the era of AI, chatbots have revolutionized how we interact with technology. Perhaps one of the most impactful uses is in the healthcare industry. Chatbots are able to deliver fast, accurate information, and help individuals more effectively manage their health. We will demonstrate building a medical chatbot using Gemini 2.0, Flask, HTML, and Bootstrap. The project is about creating a personalized, user-friendly custom platform to answer health-related queries with accuracy and speed.
